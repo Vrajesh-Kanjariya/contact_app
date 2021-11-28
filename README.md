@@ -1,2 +1,2 @@
 # contact_app
-Flutter Firestore Insert, Update, Delete and Email/Password Authentication
+Firebase Firestore Insert, Update, Delete and Email/Password Authentication
